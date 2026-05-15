@@ -58,8 +58,8 @@ Integrate real-time data sources
 Enhance interactivity with drill-down features
 Include forecasting models
 
+<img width="1109" height="278" alt="image" src="https://github.com/user-attachments/assets/8dc1de86-7685-4345-9d02-70e27f649d32" />
 
-This project is licensed under the MIT License.
 
 👤 Author
 
